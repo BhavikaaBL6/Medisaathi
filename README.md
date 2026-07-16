@@ -28,3 +28,4 @@ MediSaathi is a medication safety app designed to help caregivers and patients.
 2. Install dependencies: `npm install`
 3. Start the app: `npx expo start`
 
+*Connect with me on [LinkedIn](www.linkedin.com/in/bhavika-ajwani-a01603398)!*
